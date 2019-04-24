@@ -12,6 +12,19 @@
 		811920572257C4E500F259ED /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 811920552257C4E500F259ED /* Main.storyboard */; };
 		811920592257C4E700F259ED /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 811920582257C4E700F259ED /* Assets.xcassets */; };
 		8119205C2257C4E700F259ED /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8119205A2257C4E700F259ED /* LaunchScreen.storyboard */; };
+		816FFA1D225BE08100372E26 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816FFA1C225BE08100372E26 /* TableViewController.swift */; };
+		816FFA1F225BE0B500372E26 /* pickASpotViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 816FFA1E225BE0B500372E26 /* pickASpotViewController.swift */; };
+		819F87B42267B855004F12F5 /* TableViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 819F87B32267B855004F12F5 /* TableViewController3.swift */; };
+		819F87B62267BCCC004F12F5 /* TableViewController4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 819F87B52267BCCC004F12F5 /* TableViewController4.swift */; };
+		819F87B82267BE52004F12F5 /* TableViewController5.swift in Sources */ = {isa = PBXBuildFile; fileRef = 819F87B72267BE52004F12F5 /* TableViewController5.swift */; };
+		819F87BA2267BE5F004F12F5 /* TableViewController6.swift in Sources */ = {isa = PBXBuildFile; fileRef = 819F87B92267BE5F004F12F5 /* TableViewController6.swift */; };
+		819F87BC2267BE6E004F12F5 /* TableViewController7.swift in Sources */ = {isa = PBXBuildFile; fileRef = 819F87BB2267BE6E004F12F5 /* TableViewController7.swift */; };
+		819F87BE2267C07C004F12F5 /* TableViewController8.swift in Sources */ = {isa = PBXBuildFile; fileRef = 819F87BD2267C07C004F12F5 /* TableViewController8.swift */; };
+		819F87C02267C08B004F12F5 /* TableViewController9.swift in Sources */ = {isa = PBXBuildFile; fileRef = 819F87BF2267C08B004F12F5 /* TableViewController9.swift */; };
+		819F87C22267C09A004F12F5 /* TableViewController10.swift in Sources */ = {isa = PBXBuildFile; fileRef = 819F87C12267C09A004F12F5 /* TableViewController10.swift */; };
+		819F87C42267C0A6004F12F5 /* TableViewController11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 819F87C32267C0A6004F12F5 /* TableViewController11.swift */; };
+		819F87C62267C0B5004F12F5 /* TableViewController12.swift in Sources */ = {isa = PBXBuildFile; fileRef = 819F87C52267C0B5004F12F5 /* TableViewController12.swift */; };
+		81DA981022679D2B00FB2290 /* TableViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 81DA980F22679D2B00FB2290 /* TableViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +35,19 @@
 		811920582257C4E700F259ED /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8119205B2257C4E700F259ED /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8119205D2257C4E700F259ED /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		816FFA1C225BE08100372E26 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
+		816FFA1E225BE0B500372E26 /* pickASpotViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = pickASpotViewController.swift; sourceTree = "<group>"; };
+		819F87B32267B855004F12F5 /* TableViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController3.swift; sourceTree = "<group>"; };
+		819F87B52267BCCC004F12F5 /* TableViewController4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController4.swift; sourceTree = "<group>"; };
+		819F87B72267BE52004F12F5 /* TableViewController5.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController5.swift; sourceTree = "<group>"; };
+		819F87B92267BE5F004F12F5 /* TableViewController6.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController6.swift; sourceTree = "<group>"; };
+		819F87BB2267BE6E004F12F5 /* TableViewController7.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController7.swift; sourceTree = "<group>"; };
+		819F87BD2267C07C004F12F5 /* TableViewController8.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController8.swift; sourceTree = "<group>"; };
+		819F87BF2267C08B004F12F5 /* TableViewController9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController9.swift; sourceTree = "<group>"; };
+		819F87C12267C09A004F12F5 /* TableViewController10.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController10.swift; sourceTree = "<group>"; };
+		819F87C32267C0A6004F12F5 /* TableViewController11.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController11.swift; sourceTree = "<group>"; };
+		819F87C52267C0B5004F12F5 /* TableViewController12.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController12.swift; sourceTree = "<group>"; };
+		81DA980F22679D2B00FB2290 /* TableViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +83,19 @@
 				811920512257C4E500F259ED /* AppDelegate.swift */,
 				811920532257C4E500F259ED /* ViewController.swift */,
 				811920552257C4E500F259ED /* Main.storyboard */,
+				819F87BD2267C07C004F12F5 /* TableViewController8.swift */,
+				819F87BF2267C08B004F12F5 /* TableViewController9.swift */,
+				819F87C12267C09A004F12F5 /* TableViewController10.swift */,
+				819F87C32267C0A6004F12F5 /* TableViewController11.swift */,
+				819F87C52267C0B5004F12F5 /* TableViewController12.swift */,
+				819F87B72267BE52004F12F5 /* TableViewController5.swift */,
+				819F87B92267BE5F004F12F5 /* TableViewController6.swift */,
+				819F87BB2267BE6E004F12F5 /* TableViewController7.swift */,
+				819F87B52267BCCC004F12F5 /* TableViewController4.swift */,
+				819F87B32267B855004F12F5 /* TableViewController3.swift */,
+				81DA980F22679D2B00FB2290 /* TableViewController2.swift */,
+				816FFA1E225BE0B500372E26 /* pickASpotViewController.swift */,
+				816FFA1C225BE08100372E26 /* TableViewController.swift */,
 				811920582257C4E700F259ED /* Assets.xcassets */,
 				8119205A2257C4E700F259ED /* LaunchScreen.storyboard */,
 				8119205D2257C4E700F259ED /* Info.plist */,
@@ -135,8 +174,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				81DA981022679D2B00FB2290 /* TableViewController2.swift in Sources */,
+				819F87C22267C09A004F12F5 /* TableViewController10.swift in Sources */,
+				819F87B82267BE52004F12F5 /* TableViewController5.swift in Sources */,
+				819F87C62267C0B5004F12F5 /* TableViewController12.swift in Sources */,
+				819F87C42267C0A6004F12F5 /* TableViewController11.swift in Sources */,
+				819F87B42267B855004F12F5 /* TableViewController3.swift in Sources */,
+				819F87BA2267BE5F004F12F5 /* TableViewController6.swift in Sources */,
 				811920542257C4E500F259ED /* ViewController.swift in Sources */,
+				816FFA1F225BE0B500372E26 /* pickASpotViewController.swift in Sources */,
+				816FFA1D225BE08100372E26 /* TableViewController.swift in Sources */,
 				811920522257C4E500F259ED /* AppDelegate.swift in Sources */,
+				819F87BE2267C07C004F12F5 /* TableViewController8.swift in Sources */,
+				819F87C02267C08B004F12F5 /* TableViewController9.swift in Sources */,
+				819F87B62267BCCC004F12F5 /* TableViewController4.swift in Sources */,
+				819F87BC2267BE6E004F12F5 /* TableViewController7.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
